@@ -561,12 +561,14 @@ body.no-scroll {
 .review-wrapper {
   display: flex;
   justify-content: center;
+  align-items: center;
   /* padding: 60px 20px; */
 }
 
 .review-card {
   max-width: 100%;
   width: 100%;
+  height: max-content;
   padding: 45px;
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.30);
