@@ -749,9 +749,13 @@ a {
     text-decoration: none;
 }
 
+main {
+    margin-top: 80px;
+}
+
 @media screen and (max-width:500px) {
     main {
-        margin-top: 80px;
+        margin-top: 90px;
     }
 }
 
