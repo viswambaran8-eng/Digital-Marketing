@@ -944,6 +944,18 @@ main {
   margin-bottom: 25px;
 }
 
+.tab-content .desc {
+  display: none;
+  /* opacity: 0; */
+  /* transition: opacity 0.25s ease; */
+}
+
+.tab-content .desc.active {
+  display: block;
+  opacity: 1;
+}
+
+
 /* FEATURES */
 .features {
   display: grid;
