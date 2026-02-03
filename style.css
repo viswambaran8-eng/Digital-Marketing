@@ -495,13 +495,6 @@ body.no-scroll {
   }
 }
 
-/* Hero Stats */
-.hero-stats {
-  display: flex;
-  align-items: center;
-  gap: 25px;
-  margin-top: 40px;
-}
 
 /* Avatar Stack */
 
@@ -510,7 +503,7 @@ body.no-scroll {
   display: flex;
   align-items: center;
   gap: 25px;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 /* AVATAR STACK */
